@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'NinjaFishing' target in the 'NinjaFishing' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+    #import "StaticClass.h"
+#endif
